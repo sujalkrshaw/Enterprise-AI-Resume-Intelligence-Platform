@@ -320,55 +320,53 @@ streamlit run dashboard/app.py
 - AI Recruitment Solutions
 
 ---
-
-# 📸 Project Screenshots
 # 📸 Project Screenshots
 
-## 🚀 ATS Prediction Dashboard
+## 🚀 Enterprise Dashboard
 
-![ATS Dashboard](outputs/%7B0C6B2707-7FE1-4222-9F3B-6224DCEB7568%7D.png)
-
----
-
-## 📊 Enterprise AI Analysis
-
-![Enterprise AI](outputs/%7B30632409-9234-470A-89B7-20A5DB68AFFB%7D.png)
+![Dashboard](outputs/dashboard_1.png)
 
 ---
 
-## 📈 Recruiter Intelligence Dashboard
+## 📊 ATS Analytics Dashboard
 
-![Recruiter Dashboard](outputs/%7B52ABB02C-644B-4E7B-A8C4-017675B316D1%7D.png)
-
----
-
-## 🤖 ATS Skill Match Analysis
-
-![ATS Skill Match](outputs/%7B8E0BA2C4-D7E0-43FE-814A-73A704FDBFD5%7D.png)
+![ATS Dashboard](outputs/dashboard_2.png)
 
 ---
 
-## 🧠 Resume Intelligence Engine
+## 🤖 ATS Prediction System
 
-![Resume Intelligence](outputs/%7BA714B89A-4F56-4E49-B5F6-0417378986AA%7D.png)
-
----
-
-## 📋 Reports & Analytics
-
-![Reports](outputs/%7BC8A71177-7619-4AEC-B88E-E2D44029E16E%7D.png)
+![ATS Prediction](outputs/predection.png)
 
 ---
 
-## 💡 ATS Recommendation System
+## 🧠 Enterprise AI Resume Intelligence Engine
 
-![Recommendation](outputs/%7BF0330D44-5752-47D3-B632-FDAC4AE20113%7D.png)
+![Enterprise AI](outputs/intelligence.png)
 
 ---
 
-## 🌟 Modern Enterprise Dashboard UI
+## 📈 Advanced Recruiter Intelligence System
 
-![UI](outputs/%7BF04790F0-685F-45CF-AC12-450D1AE92479%7D.png)
+![Recruiter Intelligence](outputs/intelligencse_2.png)
+
+---
+
+## 💡 Business Insights Dashboard
+
+![Insights](outputs/insight.png)
+
+---
+
+## 📋 Reports & Analytics Module
+
+![Reports](outputs/reports.png)
+
+---
+
+## 🏗️ Project Architecture & Workflow
+
+![Architecture](outputs/structure.png)
 ---
 
 # 🚀 Future Enhancements
