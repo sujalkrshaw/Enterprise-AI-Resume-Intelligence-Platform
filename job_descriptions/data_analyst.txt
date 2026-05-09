@@ -1,0 +1,20 @@
+We are hiring a Data Analyst.
+
+Required Skills:
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- Data Visualization
+
+Preferred Skills:
+- Machine Learning
+- Statistics
+- Tableau
+
+Experience Required:
+2+ years
+
+Education:
+Bachelor's Degree in Computer Science, IT, Data Science, or related field.
